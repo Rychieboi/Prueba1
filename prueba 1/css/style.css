@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300,400;600;700;800&display=swap');
+:root{
+	--color-blanco:#fff;
+	--color-azul:#00acb3;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	color: #444;
+	font-weight: 300;
+	line-height: 1.8 !important;
+}
+
+
+#intro{
+	background-image: url("../img/bg_girl.jpg");
+	background-position: top center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 10%;
+}
+#intro h1{
+	font-size: 35px;
+	font-weight: 300;
+	color:aliceblue;
+	padding-left: 80px;
+}
+
+	
+#intro h2{
+	font-size: 35px;
+	font-weight: 300;
+	color:aliceblue;
+	padding-left: 80px;
+	
+}
+#intro p{
+	font-weight: 300;
+	color:aliceblue;
+	padding-left: 80px;
+	padding-bottom: 80px;
+}
+
+.btn{
+	border-radius: 2%;
+	padding: 15px 30px;
+	margin-right: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	border: 0;
+	padding-left: 80px;
+}
+.btn-blanco{
+	background-color: #fff;
+}
+.btn-azul{
+	background-color: #45C7B8;
+}
+
+
+
+.section{
+	padding: 10% 0;
+}
+
+#regrister{
+	background-color: #000000;
+	padding: 7% 0;
+	color: #fff;
+	text-align: center;
+}
+
+#regrister p{
+	font-size: 32px;
+	font-weight: 400;
+}
+
+#fitness{
+background-image:url("../img/health-fitness.jpg");
+	background-position: top center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 10%;	
+	padding-bottom: 40%;
+}
+
+#fitness h1{
+	
+}
